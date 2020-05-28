@@ -1,0 +1,15 @@
+.drum-pad{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+}
+
+.drum-pad.active{
+    opacity: 0.6;
+}

@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contBox{
+    background-color: darkkhaki;
+    display: flex;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 400px;
+}
+
+.title{
+    display: block;
+    width: 100%;
+    text-align: center;
+}
